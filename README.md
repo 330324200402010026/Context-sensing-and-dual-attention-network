@@ -1,6 +1,7 @@
 # Context-Sensing-and-Dual-Attention-Network
 A module that designed in my undergraduate thesis, for the tasks about scene classification of remote sensing image.
-This model has been modified and optimized based on the scene classification model designed by my senior Li-zq. Experimental data shows that the changes I made can improve the accuracy of the classification.
+This model has been modified and optimized based on the scene classification model designed by my senior LI-ziq, by which you can find his account.
+Experimental data shows that the changes I made can improve the accuracy of the classification.
 
 Here are concise introduction of some crucial profiles.
 
@@ -19,5 +20,3 @@ Innovatively, a dual attention network is introduced in the model, including a s
 CACRWNet.py
 In this module, you can find how this model operates in a specific process sequence.
 
-Grad-CAM.py
-Another approach to generate a heat map, compare to what showed in utils.py. This is just my attempt, you can choose which you like.

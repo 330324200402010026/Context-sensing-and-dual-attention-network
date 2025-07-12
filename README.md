@@ -1,4 +1,4 @@
-# Context-sensing-and-dual-attention-network
+# Context-Sensing-and-Dual-Attention-Network
 A module that designed in my undergraduate thesis, for the tasks about scene classification of remote sensing image.
 
 
